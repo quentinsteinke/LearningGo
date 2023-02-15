@@ -1,5 +1,5 @@
-module quentinsteinke.xyz/mainmodule
+module LearningGo/mainmodule
 
 go 1.20
 
-replace quentinsteinke.xzy/something => ../something
+requre quentinsteinke.xyz/something => ../something
